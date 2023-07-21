@@ -1,0 +1,133 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: #a389a4;
+    font-family: Arial, sans-serif;
+  }
+  
+  .player {
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .song-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  #song-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  #song-image:hover {
+    transform: scale(1.1);
+  }
+  
+  #song-title {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #333;
+    text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .controls .btn {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    transition: background-color 0.2s, transform 0.2s;
+  }
+  
+  .controls .btn:hover {
+    background-color: #45a049;
+    transform: scale(1.1);
+  }
+  
+  .controls .btn:focus {
+    outline: none;
+    box-shadow: 0px 0px 0px 4px rgba(236, 104, 60, 0.3);
+  }
+  
+  .controls .btn:active {
+    transform: scale(0.9);
+  }
+  
+  
+  .playlist {
+    list-style: none;
+    padding: 0;
+    max-height: 250px;
+    overflow-y: auto;
+  }
+  
+  .playlist li {
+    cursor: pointer;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    transition: background-color 0.2s;
+  }
+  
+  .playlist li:hover {
+    background-color: #ddd;
+  }
+  
+  .playlist li.active {
+    background-color: #ea631a;
+    color: white;
+  }
+  #loop-btn.active {
+    background-color: #FF5733;
+  }  
+  #song-image {
+    border: 5px solid #f00707;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+
+  }
+.song-progress {
+    width: 100%;
+    height: 10px;
+    border-radius: 5px;
+    appearance: none;
+    background-color: #ddd;
+    outline: none;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  .song-progress::-webkit-slider-runnable-track {
+    background-color: #45a049;
+    border-radius: 5px;
+    height: 10px;
+  }
+  
+  .song-progress::-webkit-slider-thumb {
+    appearance: none;
+    width: 18px;
+    height: 17px;
+    background-color: #fff;
+    border-radius: 50%;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+  }
