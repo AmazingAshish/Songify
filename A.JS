@@ -16,113 +16,113 @@ document.addEventListener("DOMContentLoaded", function () {
     const songs = [
       {
         title: "Duniya",
-        audioSrc: "10.mp3",
-        imageSrc: "10.jpg"
+        audioSrc: "/media/10.mp3",
+        imageSrc: "/media/10.jpg"
       },
       {
         title: "Lagdi Lahore Di",
-        audioSrc: "11.mp3",
-        imageSrc: "11.jpg"
+        audioSrc: "/media/11.mp3",
+        imageSrc: "/media/11.jpg"
       },
       {
         title: "Putt Jatt Da",
-        audioSrc: "12.mp3",
-        imageSrc: "12.jpg"
+        audioSrc: "/media/12.mp3",
+        imageSrc: "/media/12.jpg"
       },
       {
         title: "Baaeishein",
-        audioSrc: "13.mp3",
-        imageSrc: "13.jpg"
+        audioSrc: "/media/13.mp3",
+        imageSrc: "/media/13.jpg"
       },
       {
         title: "Vaaste",
-        audioSrc: "14.mp3",
-        imageSrc: "14.jpg"
+        audioSrc: "/media/14.mp3",
+        imageSrc: "/media/14.jpg"
       },
       {
         title: "Lut Gaye",
-        audioSrc: "15.mp3",
-        imageSrc: "15.jpg"
+        audioSrc: "/media/15.mp3",
+        imageSrc: "/media/15.jpg"
       },
       {
         title: "Meri Jindagi Hai Tu",
-        audioSrc: "16.mp3",
-        imageSrc: "16.jpg"
+        audioSrc: "/media/16.mp3",
+        imageSrc: "/media/16.jpg"
       },
       {
         title: "Batao Yaad Hai Tumko Wo Jab Dil Ko Churaya Tha",
-        audioSrc: "17.mp3",
-        imageSrc: "17.jpg"
+        audioSrc: "/media/17.mp3",
+        imageSrc: "/media/17.jpg"
       },
       {
         title: "Pasoori",
-        audioSrc: "18.mp3",
-        imageSrc: "18.jpg"
+        audioSrc: "/media/18.mp3",
+        imageSrc: "/media/18.jpg"
       },
       {
         title: "Insane",
-        audioSrc: "19.mp3",
-        imageSrc: "19.jpg"
+        audioSrc: "/media/19.mp3",
+        imageSrc: "/media/19.jpg"
       },
       {
         title: "On my way",
-        audioSrc: "1.mp3",
-        imageSrc: "1.jpg"
+        audioSrc: "/media/1.mp3",
+        imageSrc: "/media/1.jpg"
       },
       {
         title: "Faded",
-        audioSrc: "2.mp3",
-        imageSrc: "2.jpg"
+        audioSrc: "/media/2.mp3",
+        imageSrc: "/media/2.jpg"
       },
       {
         title: "Cartoon",
-        audioSrc: "3.mp3",
-        imageSrc: "3.jpg"
+        audioSrc: "/media/3.mp3",
+        imageSrc: "/media/3.jpg"
       },
       {
         title: "Warriko",
-        audioSrc: "4.mp3",
-        imageSrc: "4.jpg"
+        audioSrc: "/media/4.mp3",
+        imageSrc: "/media/4.jpg"
       },
       {
         title: "Looking For Me",
-        audioSrc: "5.mp3",
-        imageSrc: "5.jpg"
+        audioSrc: "/media/5.mp3",
+        imageSrc: "/media/5.jpg"
       },
       {
         title: "Chocolate",
-        audioSrc: "6.mp3",
-        imageSrc: "6.jpg"
+        audioSrc: "/media/6.mp3",
+        imageSrc: "/media/6.jpg"
       },
       {
         title: "Tamasha",
-        audioSrc: "7.mp3",
-        imageSrc: "7.jpg"
+        audioSrc: "/media/7.mp3",
+        imageSrc: "/media/7.jpg"
       },
       {
         title: "Sanak",
-        audioSrc: "8.mp3",
-        imageSrc: "8.jpg"
+        audioSrc: "/media/8.mp3",
+        imageSrc: "/media/8.jpg"
       },
       {
         title: "Dilbar",
-        audioSrc: "9.mp3",
-        imageSrc: "9.jpg"
+        audioSrc: "/media/9.mp3",
+        imageSrc: "/media/9.jpg"
       },
       {
         title: "Maan Meri Jaan",
-        audioSrc: "20.mp3",
-        imageSrc: "20.jpeg"
+        audioSrc: "/media/20.mp3",
+        imageSrc: "/media/20.jpeg"
       },
       {
         title: "Tu Hai To Mujhe Fir Or Kya Chahiye",
-        audioSrc: "21.mp3",
-        imageSrc: "21.jpeg"
+        audioSrc: "/media/21.mp3",
+        imageSrc: "/media/21.jpeg"
       },
       {
         title: "Hanuman Chalisa",
-        audioSrc: "22.mp3",
-        imageSrc: "22.jpg"
+        audioSrc: "/media/22.mp3",
+        imageSrc: "/media/22.jpg"
       }
     ];
   
