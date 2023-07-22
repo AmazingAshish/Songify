@@ -6,7 +6,7 @@
 
 ## Description
 
-The Advanced Song Player is a web application that allows users to listen to their favourite songs with a range of functionalities. It is built using HTML, CSS, and JavaScript and offers features like play, pause, next, previous, loop, and playlist functionality. The player displays the song image and title, while the playlist provides a list of available songs. The progress bar indicates the current position of the song being played, and users can seek to a specific point in the song by clicking on the progress bar.
+Songify is a web application that allows users to listen to their favourite songs with a range of functionalities. It is built using HTML, CSS, and JavaScript and offers features like play, pause, next, previous, loop, and playlist functionality. The player displays the song image and title, while the playlist provides a list of available songs. The progress bar indicates the current position of the song being played, and users can seek a specific point in the song by clicking on the progress bar.
 
 ---
 ## Demo
