@@ -23,7 +23,7 @@ You can see a live demo of Songify [here](https://amazingashish.github.io/Songif
 ---
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/advanced-song-player.git`
+1. Clone the repository: `git clone https://github.com/AmazingAshish/advanced-song-player.git`
 2. Open the `index.html` file in your preferred web browser.
 
 ---
